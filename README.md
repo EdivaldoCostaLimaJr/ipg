@@ -2,4 +2,6 @@
 
 ## descrição
 
-SITE DA MINHA IGREJA EM GOIANA/PE
+Criação de site para minha igreja local. 
+
+Veja [aqui](https://edivaldocostalimajr.github.io/ipg/) 
